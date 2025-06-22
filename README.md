@@ -185,4 +185,6 @@ Pour toute question ou problème :
 
 ## 📄 Licence
 
-MIT License - Libre d'utilisation et modification. 
+MIT License - Libre d'utilisation et modification.
+
+<!-- Trigger Vercel Deployment --> 
